@@ -1,4 +1,6 @@
-# Part IV Project 2023: Analysing injury patterns of rugby players after mild traumatic brain injury by combining advanced MRI and machine learning techniques
+# Analysing injury patterns of rugby players after mild traumatic brain injury by combining advanced MRI and machine learning techniques
+
+This analysis is conducted as part of our Part IV Project thesis at the University of Auckland.
 
 Traumatic Brain Injury (TBI) is defined as an alteration in brain function or other evidence of brain pathology, caused by an external force, and is a leading cause of death and disability. More than 90% of all TBIs are classified as mild in severity (mTBI). Despite the ‘mild’ classification, many mTBIs result in long-term impairment including lifelong physical, cognitive, behavioural and emotional consequences (as well as a financial burden). New Zealand (NZ) has one of the highest rates of mTBI among the developed world, with Māori disproportionally affected. Rangatahi Māori (youth), in particular, are more susceptible to
 mTBI and have a significantly higher chance of suffering neurocognitive deficits from concussion. The cause of the higher mTBI incidence among Māori is unknown.
