@@ -12,6 +12,8 @@ Outcome of the project:
 1. Analyse advanced brain MR images of rugby along with their impact severity measured with wearable sensors to develop personalised computational model of the brain (called the virtual brain) and analyse the brain injury patterns quantitatively.
 2. Develop a machine-learning/statistical model that can predict the pattern of changes in the human brain given symptom measurements and head impact history.
 
-## Team: Daniel Torrey & Youxiang Lei
+## Team: 
+Daniel Torrey & Youxiang Lei
 
-## Supervisors: Vickie Shim & Justin Fernandez
+## Supervisors: 
+Vickie Shim & Justin Fernandez
