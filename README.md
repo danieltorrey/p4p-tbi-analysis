@@ -1,6 +1,6 @@
 # Analysing injury patterns of rugby players after mild traumatic brain injury by combining advanced MRI and machine learning techniques
 
-## This analysis is conducted as part of our Part IV Project thesis at the University of Auckland.
+### This analysis is conducted as part of our Part IV Project thesis at the University of Auckland. ###
 
 ## Background:
 
